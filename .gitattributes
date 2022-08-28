@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.react linguist-detectable=true
+*.jsx linguist-detectable=true
